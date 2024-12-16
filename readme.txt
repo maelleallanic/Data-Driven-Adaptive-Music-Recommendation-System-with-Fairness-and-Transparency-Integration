@@ -1,3 +1,4 @@
+VIDEO WALK THROUGH: https://youtu.be/qsJ58PQIDD8?si=4NKfrnNpL8NW1aSD
 ## README ##
 
 For our app implementation, we didn’t utilize any open source code snippets or external projects beyond commonly used libraries. We utilized the CMU 112 graphics package to create our app interface and relied on the following open-source libraries: sklearn, pandas, matplotlib, numpy. These libraries must be installed for the app to function correctly.
